@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "ShiftUtils",
+    "description": "Shift + hold mouse to quickly transfer hovered items in inventory and chests.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "youtube.com/@xitssunny",
+    "updateUrl": "",
+    "authorList": [
+      "xItsSunny"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
